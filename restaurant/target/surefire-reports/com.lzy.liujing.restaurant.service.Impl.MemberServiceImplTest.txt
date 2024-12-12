@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lzy.liujing.restaurant.service.Impl.MemberServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 0.034 s - in com.lzy.liujing.restaurant.service.Impl.MemberServiceImplTest

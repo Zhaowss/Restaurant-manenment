@@ -1,0 +1,10 @@
+com\lzy\liujing\restaurant\dao\SysMenuDaoTest.class
+com\lzy\liujing\restaurant\service\Impl\SysUserServiceImplTest.class
+com\lzy\liujing\restaurant\dao\OrderDaoTest.class
+com\lzy\liujing\restaurant\dao\MemberDaoTest.class
+com\lzy\liujing\restaurant\utils\SplitIdsUtilTest.class
+com\lzy\liujing\restaurant\dao\OrderDetailDaoTest.class
+com\lzy\liujing\restaurant\service\Impl\CookAndServingServiceImplTest.class
+com\lzy\liujing\restaurant\service\Impl\MemberServiceImplTest.class
+com\lzy\liujing\restaurant\dao\SysUserDaoTest.class
+com\lzy\liujing\restaurant\utils\createOrderCodeUtilTest.class
